@@ -1,0 +1,27 @@
+crypto-lottery/
+│
+├── public/
+│   ├── index.html
+│   ├── favicon.ico
+│   └── manifest.json
+│
+├── src/
+│   ├── components/
+│   │   ├── LotteryCard.js
+│   │   ├── AdModal.js
+│   │   └── WithdrawButton.js
+│   │
+│   ├── utils/
+│   │   ├── cryptoUtils.js
+│   │   └── adSimulation.js
+│   │
+│   ├── styles/
+│   │   └── index.css
+│   │
+│   ├── App.js
+│   └── index.js
+│
+├── .gitignore
+├── package.json
+├── README.md
+└── netlify.toml
